@@ -9,6 +9,8 @@
     "editor.minimap.enabled": false,
     "typescript.check.tscVersion": false,
     "files.trimTrailingWhitespace": true,
-    "editor.renderWhitespace": "boundary"
+    "editor.renderWhitespace": "boundary",
+    "editor.tabCompletion": true,
+    "editor.rulers": [80, 120]
 }
 
