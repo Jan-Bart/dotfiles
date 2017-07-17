@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true
+    },
+    "workbench.iconTheme": "vs-seti",
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "typescript.check.tscVersion": false,
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "boundary"
+}
+
